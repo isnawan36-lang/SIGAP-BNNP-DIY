@@ -3,7 +3,7 @@ from supabase import create_client, Client
 from datetime import datetime
 
 SUPABASE_URL = "https://dgtsaqfwluqpjvohhxar.supabase.co"
-SUPABASE_KEY = "sb_secret_6rXW6OMPauhG3kIIpOB5NA_kEu6u6yp"
+SUPABASE_KEY = "sb_publishable_AKg2-10-p2l06c6-2Q2Szg_ECnSWafa"
 try:
     supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 except Exception as e:
