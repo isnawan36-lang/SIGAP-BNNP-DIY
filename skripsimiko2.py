@@ -34,7 +34,7 @@ st.markdown(
         <div style="display: flex; flex-direction: column; justify-content: center;">
             <h1 style="margin: 0; color: #1E3A8A; font-size: 36px; line-height: 1.0;">SIGAP-BNNP-DIY</h1>
             <p style="margin: 2px 0 0 0; font-size: 16px; color: #6B7280; font-weight: bold; line-height: 1.1;">
-                Sistem Integrasi Skrining & Analisis Penggunaan - BNNP DIY
+                Sistem Integrasi Skrining & Analisis Penggunaan Narkotika - BNNP DIY
             </p>
             <p style="margin: 0; font-size: 14px; color: #1E3A8A; font-style: italic; line-height: 1.1;">
                 Klinik Seger Waras - BNNP D.I.Yogyakarta  (0274) 385378
