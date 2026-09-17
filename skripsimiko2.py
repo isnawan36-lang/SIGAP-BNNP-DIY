@@ -32,7 +32,7 @@ st.markdown(
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
         <img src="{url_logo}" width="85" style="margin-top: 15px;">
         <div style="display: flex; flex-direction: column; justify-content: center;">
-            <h1 style="margin: 0; color: #1E3A8A; font-size: 36px; line-height: 1.0;">SIGAP-BNN</h1>
+            <h1 style="margin: 0; color: #1E3A8A; font-size: 36px; line-height: 1.0;">SIGAP-BNNP-DIY</h1>
             <p style="margin: 2px 0 0 0; font-size: 16px; color: #6B7280; font-weight: bold; line-height: 1.1;">
                 Sistem Integrasi Skrining & Analisis Penggunaan - BNNP DIY
             </p>
