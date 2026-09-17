@@ -39,8 +39,6 @@ st.markdown(
             <p style="margin: 0; font-size: 14px; color: #1E3A8A; font-style: italic; line-height: 1.1;">
                 Klinik Seger Waras - BNNP D.I.Yogyakarta  (0274) 385378
             </p>
-            
-        </div>
     </div>
     """,
     unsafe_allow_html=True
